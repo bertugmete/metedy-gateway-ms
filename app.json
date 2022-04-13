@@ -1,0 +1,8 @@
+{
+  "name": "gateway-ms",
+  "buildPack": [
+    {
+    "url": "heroku/gradle"
+    }
+  ]
+}
